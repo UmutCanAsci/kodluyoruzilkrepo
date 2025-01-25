@@ -1,6 +1,6 @@
 ## Kodluyoruz İlk Repo
 
-bu repo [kodluyoruz]("https://kodluyoruz.com") Front-End eğitiminde oluşturduğumuz ilk repo. içerisinde bir adet README dosyası ve bir adet index.html dosyası barındırıyor
+bu repo [kodluyoruz]("https://kodluyoruz.com") GIT eğitiminde oluşturduğumuz ilk repo. içerisinde bir adet README dosyası ve bir adet index.html dosyası barındırıyor
 
 # Instalition
 
